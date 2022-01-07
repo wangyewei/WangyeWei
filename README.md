@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, my name is WangYewei and I'm a Front End Engineer, the Boss of 06k4 
+✨ Hello, my name is WangYewei and I'm a Front End Engineer, the 06k4 Studio owner.
 
-🔭 I’m currently building a low-code programing based on vue 3.x.Studio.
+🔭 I’m currently building a low-code programing based on vue 3.x.
 
 <!-- My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
 
