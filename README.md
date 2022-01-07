@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Hello, my name is WangYewei and I'm a Front End Engineer, the Boss of 06k4 Studio.
+Hello, my name is WangYewei and I'm a Front End Engineer, the Boss of 06k4 
+
+🔭 I’m currently building a low-code programing based on vue 3.x.Studio.
 
 <!-- My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
 
-🔭 I’m currently building a low-code programing based on vue 3.x.
+
 
 <!--
 **WangYeWei/WangyeWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
