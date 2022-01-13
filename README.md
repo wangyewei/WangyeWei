@@ -4,7 +4,7 @@
 
 🔭 I’m currently building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
 
-[Readme Card](https://github.com/WangYeWei/K4Kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notifirehq&repo=notifire)](https://github.com/WangYeWei/K4Kit)
 
 <!-- My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
 
