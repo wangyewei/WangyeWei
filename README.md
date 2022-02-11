@@ -4,10 +4,10 @@
 
 🔭 I’m currently building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
 
-[![image](https://user-images.githubusercontent.com/49926816/149354261-ae802b44-995e-42a7-adf8-cde10d09d2e1.png)](https://github.com/WangYeWei/K4Kit)
+
 
 <!-- My name is Dima and i'm a creator from Tel Aviv, Israel. I'm excited about web technologies, developer UX and tooling.
-
+[![image](https://user-images.githubusercontent.com/49926816/149354261-ae802b44-995e-42a7-adf8-cde10d09d2e1.png)](https://github.com/WangYeWei/K4Kit)
 
 
 <!--
