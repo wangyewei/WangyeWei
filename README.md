@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ Hello, my name is WangYewei and I'm a Front End Engineer, the 06k4 Studio owner.
+✨ Hello, my name is WangYewei and I'm a Front-end developer, the 06k4 Studio owner.
 
 🔭 I’m currently building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
 
