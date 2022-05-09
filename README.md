@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-✨ Hello there, my name is WangYewei. I'm a Front-end developer from Chin, 06k4 Studio owner.
+✨ Hello there, my name is WangYewei. I'm a Front-end developer from China, 06k4 Studio owner.
 
-🔭 I’m currently building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
-
-💬 求知若渴，虚心若愚
+🔭 I’m currently working on  building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
 
 <a href="https://github.com/wangyewei/design-06k4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=design-06k4&theme=react" />
