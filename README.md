@@ -2,7 +2,7 @@
 
 ✨ Hello there, my name is WangYewei.a Front-end developer from China🇨🇳 and the boss of 06k4 Studio.
 
-🔭 I’m currently working on  building **[K4Kit](https://github.com/WangYeWei/K4Kit)** a low-code programing based on vue 3.x.
+🔭 I've recently been working on a Vue-based low-code development platform and typescript-base react UI library.
 
 <a href="https://github.com/wangyewei/design-06k4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=design-06k4&theme=react" />
