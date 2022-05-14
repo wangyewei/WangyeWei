@@ -7,7 +7,7 @@
 <a href="https://github.com/wangyewei/design-06k4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=design-06k4&theme=react" />
 </a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<a href="https://github.com/wangyewei/k4kit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=K4kit&theme=vue" />
 </a>
 
