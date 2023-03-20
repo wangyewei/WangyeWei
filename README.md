@@ -1,6 +1,6 @@
 Hello. 🖐
 
-My Name is Yewei Wang.
+My name is Yewei Wang.
 
 I am a software engineer at Asiainfo Inc. currently based in ChengDu China. If you happen to get help from my project. Thanks to star my project or follow my GitHub account.
 
