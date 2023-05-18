@@ -4,13 +4,9 @@ My name is Yewei Wang.
 
 I am a software engineer at Asiainfo Inc. currently based in ChengDu China. If you happen to get help from my project. Thanks to star my project or follow my GitHub account.
 
-And my chinese name is 王野未 (Wang ye wei) You can also find me on `知乎` and `微博`.
-
 I am recently going to use my free time to create a project on vue3 source code interpretation or JavaScript design patterns tutorial.
 
-Outside of programing, I enjoy coffee, tea bask in the sun. Hum... It sounds like an old man, But I am actually 22 years old.
-
-<img src="https://user-images.githubusercontent.com/49926816/221478636-92a62e19-fc86-40d8-a1fb-f267c9407993.JPG" width="500px" align="center"/>
+Outside of programing, I enjoy coffee, tea bask in the sun.
 
 
 ### My Current Project ✨👀✨ 
