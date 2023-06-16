@@ -2,11 +2,7 @@ Hello. 🖐
 
 My name is Yewei Wang.
 
-I am a software engineer at Asiainfo Inc. currently based in ChengDu China. If you happen to get help from my project. Thanks to star my project or follow my GitHub account.
-
-I am recently going to use my free time to create a project on vue3 source code interpretation or JavaScript design patterns tutorial.
-
-Outside of programing, I enjoy coffee, tea bask in the sun.
+I am a software engineer at Asiainfo Inc. currently based in ChengDu China. 
 
 
 ### My Current Project ✨👀✨ 
