@@ -7,12 +7,14 @@ I am a software engineer at Asiainfo Inc. currently based in ChengDu China.
 
 ### My Current Project ✨👀✨ 
 
+<a href="https://github.com/wangyewei/Typurejs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=Typurejs&theme=typescript" />
+</a>
+
 <a href="https://github.com/wangyewei/design-06k4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=design-06k4&theme=react" />
 </a>
-<a href="https://github.com/wangyewei/k4kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=K4kit&theme=vue" />
-</a>
+
 
 ### My GitHub State ✒
 
