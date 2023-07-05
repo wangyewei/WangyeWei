@@ -5,10 +5,10 @@ My name is Yewei Wang.
 I am a software engineer at Asiainfo Inc. currently based in ChengDu China. 
 
 
-### My Current Project ✨👀✨ 
+### My Current Project ✨
 
 <a href="https://github.com/wangyewei/Typurejs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=Typurejs&theme=typescript" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangyewei&repo=Typurejs&theme=javascript" />
 </a>
 
 <a href="https://github.com/wangyewei/design-06k4">
