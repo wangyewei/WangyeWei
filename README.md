@@ -4,7 +4,7 @@ My name is Yewei Wang.
 
 I am a software engineer at Asiainfo Inc. currently based in ChengDu China. 
 
-
+<!--
 ### My Current Project ✨
 
 <a href="https://github.com/wangyewei/Typurejs">
@@ -20,9 +20,9 @@ I am a software engineer at Asiainfo Inc. currently based in ChengDu China.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyewei&show_icons=true&theme=radical)
 
-### Most used Languages 💻
+<!-- ### Most used Languages 💻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyewei&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **WangYeWei/WangyeWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
