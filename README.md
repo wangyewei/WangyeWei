@@ -1,13 +1,14 @@
 
 
-Hello. 🖐
+Hello. 🖐 
 
 My name is Yev Wang.
 
 I am a software engineer at Asiainfo Inc. currently based in ChengDu China. 
 
-<img src="https://komarev.com/ghpvc/?username=wangyewei" width="0" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wangyewei" />
+</p>
 <!--
 ### My Current Project ✨
 
